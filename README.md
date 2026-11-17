@@ -8,6 +8,8 @@ Inspired by the easy metadata copying in iOS Photos, it brings that convenience 
 
 ### 1. In the app
 
+![Meta Media with a photo preview and editable capture date, time, and GPS fields](screenshots/workspace.png)
+
 Drop files into Meta Media or choose **Add files**. Edit date, time, and location directly in the inspector. Valid edits save automatically, with **Undo** available for each field during the current session.
 
 The inspector shows a labeled Finder date when capture metadata is missing. Add GPS by searching for a place, pasting coordinates, or selecting a recent or saved location.
@@ -15,6 +17,8 @@ The inspector shows a labeled Finder date when capture metadata is missing. Add 
 To apply the same date/time or location to several files, copy it from one file, select the targets, and right-click a selected row to paste. Shift-click selects a range. Command-click or Control-click toggles individual rows. Delete removes selected files from the desk list.
 
 ### 2. From Finder Quick Actions
+
+![Finder context menu with Quick Actions → Copy/Paste Media Metadata highlighted](screenshots/finder-quick-actions.png)
 
 For quick copy and paste while browsing files, open Meta Media once and choose **Meta Media → Install Finder Quick Action…**. Then right-click a file in Finder and choose **Quick Actions → Copy/Paste Media Metadata…**.
 
@@ -62,3 +66,5 @@ Media editing happens locally; the app does not upload your photos or videos. Ap
 - Saved locations and undo are separate: changing a saved place does not retag existing files.
 
 For a bug report, include macOS/app version, file format, steps, and the error text. Avoid uploading private media or exact GPS coordinates; use a non-sensitive sample if one is needed.
+
+Screenshot photo: [Tunnel view, Yosemite by Ted Wakabayashi (public domain)](https://commons.wikimedia.org/wiki/File:Tunnel_view,_Yosemite.jpg).
