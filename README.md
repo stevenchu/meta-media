@@ -14,7 +14,7 @@ This initial release is not Apple-notarized. macOS may block its first launch; s
 
 ## Install
 
-1. [Download the ZIP from Releases](https://github.com/stevenchu/meta-media-releases/releases/latest) and unzip it.
+1. [Download the ZIP from Releases](https://github.com/stevenchu/meta-media/releases/latest) and unzip it.
 2. Move **Meta Media.app** into Applications (or your user's Applications folder).
 3. Open Meta Media.
 4. For Finder integration, choose **Meta Media → Install Finder Quick Action…**.
